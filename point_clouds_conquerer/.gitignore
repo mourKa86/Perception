@@ -1,0 +1,10 @@
+.qodo/
+venv/
+data/
+*.jpg
+*.pcd
+*.avi
+*.zip
+*.ply
+*.bin
+
