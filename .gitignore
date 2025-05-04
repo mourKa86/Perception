@@ -1,0 +1,17 @@
+*.pcd
+*.avi
+*.zip
+*.ply
+*.bin
+*.jpg
+venv/
+*.png
+*.mp4
+Visual Fusion/Yolov4/
+Visual Fusion/.idea/
+*.pt
+Deep Point Clouds/data/
+Deep Point Clouds/.idea/
+*.pyc
+point_clouds_conquerer/.idea/
+*.ipynb
