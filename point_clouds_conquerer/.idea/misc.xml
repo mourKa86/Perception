@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="pathToExecutable" value="C:\Users\amrab\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\Scripts\black.exe" />
+    <option name="sdkName" value="Python 3.9 (Point Clouds Conquerer)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (point_clouds_conquerer)" project-jdk-type="Python SDK" />
+</project>
