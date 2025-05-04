@@ -1,0 +1,15 @@
+Deep Point Clouds/.idea/
+Deep Point Clouds/data/
+point_clouds_conquerer/data/
+point_clouds_conquerer/output/
+*.pcd
+*.png
+*.mp4
+*.idea*
+*.jpg
+*.ipynb
+*venv*
+*.avi
+*.pyc
+*data*
+*output*
